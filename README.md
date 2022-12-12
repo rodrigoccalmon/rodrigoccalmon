@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rodrigo Calmon</h1>
+<h1 align="center">Hi 👋</h1>
 
 📫 How to reach me  **rodrigo.ccalmon@gmail.com** || Whatsapp: +55 21 993197403
 <h3 align="left">Linkedin:</h3>
